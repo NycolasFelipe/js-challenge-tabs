@@ -1,2 +1,4 @@
-# js-challenge-tabs
- Page with multiple tabs
+# Tabs Page
+ Page with multiple tabs.
+ 
+ ![img](tabs.gif)
